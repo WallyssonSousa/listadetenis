@@ -1,0 +1,24 @@
+{
+    "tennis": [
+      {
+        "nome": "Air Force 1",
+        "preco": 700.00,
+        "imagem": "./airforcebranco.png"
+      },
+      {
+        "nome": "Jordan1",
+        "preco": 1.200,
+        "imagem": "./jordan1.jpg"
+      },
+      {
+        "nome": "Microbounce",
+        "preco": 1.500,
+        "imagem": "./microbounce.jpg"
+      },
+      {
+        "nome": "Tn3",
+        "preco": 750.00,
+        "imagem": "./tn3.png"
+      }
+    ]
+  }
