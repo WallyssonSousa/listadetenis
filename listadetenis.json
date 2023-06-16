@@ -3,22 +3,22 @@
       {
         "nome": "Air Force 1",
         "preco": 700.00,
-        "imagem": "./airforcebranco.png"
+        "imagem": "./produtos/airforcebranco.png"
       },
       {
         "nome": "Jordan1",
         "preco": 1.200,
-        "imagem": "./jordan1.jpg"
+        "imagem": "./produtos/jordan1.jpg"
       },
       {
         "nome": "Microbounce",
         "preco": 1.500,
-        "imagem": "./microbounce.jpg"
+        "imagem": "./produtos/microbounce.jpg"
       },
       {
         "nome": "Tn3",
         "preco": 750.00,
-        "imagem": "./tn3.png"
+        "imagem": "./produtos/tn3.png"
       }
     ]
   }
